@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tab
+            id="@+id/tab_home"
+            icon="@mipmap/home"
+            title="首页"/>
+    <tab
+            id="@+id/tab_mv"
+            icon="@mipmap/mv"
+            title="首页"/>
+    <tab
+            id="@+id/tab_ranking"
+            icon="@mipmap/ranking"
+            title="首页"/>
+    <tab
+            id="@+id/tab_music"
+            icon="@mipmap/music"
+            title="首页"/>
+
+</tabs>
